@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pitch Slap</string>
+    <string name="ckey_desc">C Major Key Signature</string>
+    <string name="todays_key">Today\'s Key:</string>
+    <string name="menu_button_text">Start</string>
+    <string name="c_major">C Major</string>
+</resources>
